@@ -1,0 +1,32 @@
+[
+  {
+    "distance_km": 100,
+    "capacity_group": "all",
+    "manufacturing_fee": {"up_to_30_ton": 500000, "over_31_ton": 700000},
+    "reinspection_fee_group1": 300000,
+    "reinspection_fee_group2": 320000,
+    "reinspection_fee_group3": 340000,
+    "reinspection_fee_group4": 360000,
+    "reinspection_fee_group5": 380000
+  },
+  {
+    "distance_km": 300,
+    "capacity_group": "all",
+    "manufacturing_fee": {"up_to_30_ton": 700000, "over_31_ton": 950000},
+    "reinspection_fee_group1": 420000,
+    "reinspection_fee_group2": 450000,
+    "reinspection_fee_group3": 480000,
+    "reinspection_fee_group4": 510000,
+    "reinspection_fee_group5": 540000
+  },
+  {
+    "distance_km": 600,
+    "capacity_group": "all",
+    "manufacturing_fee": {"up_to_30_ton": 900000, "over_31_ton": 1200000},
+    "reinspection_fee_group1": 550000,
+    "reinspection_fee_group2": 590000,
+    "reinspection_fee_group3": 630000,
+    "reinspection_fee_group4": 670000,
+    "reinspection_fee_group5": 710000
+  }
+]
