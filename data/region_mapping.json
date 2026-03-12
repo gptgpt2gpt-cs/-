@@ -1,0 +1,7 @@
+[
+  {"region_name": "서울", "group": "group1"},
+  {"region_name": "경기", "group": "group2"},
+  {"region_name": "충청", "group": "group3"},
+  {"region_name": "전라", "group": "group4"},
+  {"region_name": "경상", "group": "group5"}
+]
